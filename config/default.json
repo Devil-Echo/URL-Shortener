@@ -1,5 +1,5 @@
 {
   "mongoURI": "mongodb+srv://devilEcho:urlshortener123@apicluster.x6lek.mongodb.net/urltest?retryWrites=true&w=majority",
 
-  "baseUrl": "https://localhost:5000"
+  "baseUrl": "http://localhost:5000"
 }
